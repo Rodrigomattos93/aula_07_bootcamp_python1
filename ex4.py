@@ -1,7 +1,5 @@
 #Converter Celsius para Fahrenheit em uma Lista
 
-#Calcular Média de Valores em uma Lista
-
 while True:
     try:
         lista = input("insira valores de temperatura em Celsius separados por vírgula: ")
